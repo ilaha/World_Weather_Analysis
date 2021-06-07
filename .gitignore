@@ -1,5 +1,6 @@
 # # Adding Python Configuration file
 config.py
+config2.py
 
 # Adding additional files
 API_practice.ipynb
@@ -14,6 +15,7 @@ __pycache__/
 *$py.class
 DS_Store
 
+.DS_Store
 # C extensions
 *.so
 
